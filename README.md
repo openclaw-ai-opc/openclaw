@@ -122,5 +122,5 @@ openclaw101 是一个** OpenClaw 资源聚合站**，旨在帮助中文用户快
 
 可以一起加入星球来学习：
 
+![zxsq](https://github.com/user-attachments/assets/63dd053d-3cc1-4280-8f18-2a867e81370f)
 
-![输入图片说明](zsxq.jpg)
