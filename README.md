@@ -1,7 +1,7 @@
-# openclaw101
+# openclaw学校资料包
 
 #### 介绍
-openclaw 以及 skills相关的资料集合。
+openclaw学校资料包
 
 #### 源吗
 
