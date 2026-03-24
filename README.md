@@ -1,4 +1,4 @@
-# openclaw学校资料包
+# openclaw学习资料包
 
 #### 介绍
 openclaw学校资料包
