@@ -25,6 +25,15 @@ openclaw学校资料包
 - [一夜之间，全行业都在做“龙虾”：谁在抢AI的控制权？](https://mp.weixin.qq.com/s/jHzI-f1jbeh7bJNtNAjK8Q)
 - [QClaw这只虾都能干啥呢？我不会养了一只废虾吧？？ | QClaw超详细使用教程](https://mp.weixin.qq.com/s/apMr4EnNstLF73_dHf-YEw)
 - [微信也能用 OpenClaw！ClawBot 插件接入 OpenClaw 详细指南](https://mp.weixin.qq.com/s/Q30773g6eRdyH6oQ2lvWvw)
+- [OpenClaw🦞 3.22 发布：沉默9天，龙虾终于爆发！openclaw系列教程](https://mp.weixin.qq.com/s/YX6vkTuIKmFeVSTK_D6P3w)
+- [QClaw 8个应用场景实战教程，每个步骤都有截图 (QClaw全面开放 · 无需邀请码) | openclaw系列教程](https://mp.weixin.qq.com/s/89WBrvtrt69RMCJpQqN9Nw)
+- [腾讯QClaw | 把生日告诉AI，它给我算出了一份"人生说明书"](https://mp.weixin.qq.com/s/SY_9ZxZLei5LakfRp9xmOA)
+- [微信/企业微信接入腾讯QClaw 一文给你讲清楚 | openclaw系列教程](https://mp.weixin.qq.com/s/PASlkMM4gjJlBt1-DHXaVg)
+- [QQ接入腾讯QClaw接入指南 | OpenClaw系列](https://mp.weixin.qq.com/s/YjflC9WrIlWr5kVRIlVZrQ)
+- [飞书接入腾讯QClaw | OpenClaw系列](https://mp.weixin.qq.com/s/QeVu4AAac_uBTmuzYifKQQ)
+- [钉钉接入腾讯QClaw | OpenClaw系列](https://mp.weixin.qq.com/s/wBwDKcvUm_wRnV0vmWQd0w)
+- [腾讯上线国内首个浏览器“龙虾”——QQ 浏览器QBotClaw](https://mp.weixin.qq.com/s/bpg7EvUZnMM0K_DlFla0Ow)
+- [教你用QClaw定制每日新闻：腾讯新闻 Skills 上手指南 | SkillHub仓库的使用](https://mp.weixin.qq.com/s/7abeLY2ohqL2lifrkfQONQ)
 
 
 # 🐾 OpenClaw创业实战营
